@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Apr 02 00:44:11 PKT 2020
+da39a3ee5e6b4b0d3255bfef95601890afd80709@proxy.host.net\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1585770251092
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.4.1 from/to central (http\://repo.maven.apache.org/maven2)\: proxy.host.net
